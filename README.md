@@ -19,23 +19,22 @@ A modern, "Blogger-inspired" web application built with Laravel. This project fe
 
 -Delete posts.
 
-### When a new user want to register into the Blog web site.
+* When a new user want to register into the Blog web site.
 
 ![ait text](https://github.com/balogunjeremiah2-cmd/Balogun-Jeremiah-Heritageeeeee/blob/main/Screenshot%202025-12-27%20124524.png?raw=true)
 
-#### Data of the new user is been stored in the Laragon Database, but the password is been Hashed
+* Data of the new user is been stored in the Laragon Database, but the password is been Hashed
 
 ![ait text](https://github.com/balogunjeremiah2-cmd/Balogun-Jeremiah-Heritageeeeee/blob/main/Screenshot%202025-12-27%20124559j.png?raw=true)
 
-##### user are been directed to the landing page where POST can be created, Edited and Deleted respectively and also allow user Logout.
+* user are been directed to the landing page where POST can be created, Edited and Deleted respectively and also allow user Logout.
 
 ![ait text](https://github.com/balogunjeremiah2-cmd/Balogun-Jeremiah-Heritageeeeee/blob/main/Screenshot%202025-12-27%20124724.png?raw=true)
 
-###### user creating new POST
+* user creating new POST
 
 ![ait text](https://github.com/balogunjeremiah2-cmd/Balogun-Jeremiah-Heritageeeeee/blob/main/Screenshot%202025-12-27%20125118.png?raw=true)
-
-####### POST are been stored as to allow user edit and delete when needed.
+* POST are been stored as to allow user edit and delete when needed.
 ![ait text](https://github.com/balogunjeremiah2-cmd/Balogun-Jeremiah-Heritageeeeee/blob/main/Screenshot%202025-12-27%20125139.png?raw=true)
 
 * Editing of already established POST
@@ -61,3 +60,13 @@ A modern, "Blogger-inspired" web application built with Laravel. This project fe
 * Once login and authenticated, you get into the blog landing page.
 
 ![ait text](https://github.com/balogunjeremiah2-cmd/Balogun-Jeremiah-Heritageeeeee/blob/main/Screenshot%202025-12-27%20125633.png?raw=true)
+
+### 🛠 Tech Stack
+
+* Framework: Laravel 10/11
+
+* Language: PHP 8.x
+
+* Database: MySQL (via Laragon)
+
+* Frontend: Blade Templating Engine, CSS3
