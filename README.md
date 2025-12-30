@@ -28,3 +28,5 @@ A modern, "Blogger-inspired" web application built with Laravel. This project fe
 ![ait text](https://github.com/balogunjeremiah2-cmd/Balogun-Jeremiah-Heritageeeeee/blob/main/Screenshot%202025-12-27%20124559j.png?raw=true)
 
 ##### user are been directed to the landing page where POST can be created, Edited and Deleted respectively and also allow user Logout.
+
+![ait text](https://github.com/balogunjeremiah2-cmd/Balogun-Jeremiah-Heritageeeeee/blob/main/Screenshot%202025-12-27%20124724.png?raw=true)
