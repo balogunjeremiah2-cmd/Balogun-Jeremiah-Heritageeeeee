@@ -45,3 +45,7 @@ A modern, "Blogger-inspired" web application built with Laravel. This project fe
 * More content has been added to the POST
 
 ![ait text](https://github.com/balogunjeremiah2-cmd/Balogun-Jeremiah-Heritageeeeee/blob/main/Screenshot%202025-12-27%20125309.png?raw=true)
+
+* POST is been updated in the All Post section
+
+![ait text](https://github.com/balogunjeremiah2-cmd/Balogun-Jeremiah-Heritageeeeee/blob/main/Screenshot%202025-12-27%20125345.png?raw=true)
