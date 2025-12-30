@@ -36,3 +36,4 @@ A modern, "Blogger-inspired" web application built with Laravel. This project fe
 ![ait text](https://github.com/balogunjeremiah2-cmd/Balogun-Jeremiah-Heritageeeeee/blob/main/Screenshot%202025-12-27%20125118.png?raw=true)
 
 ####### POST are been stored as to allow user edit and delete when needed.
+![ait text](https://github.com/balogunjeremiah2-cmd/Balogun-Jeremiah-Heritageeeeee/blob/main/Screenshot%202025-12-27%20125139.png?raw=true)
