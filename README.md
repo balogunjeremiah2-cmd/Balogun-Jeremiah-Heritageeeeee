@@ -82,11 +82,23 @@ A modern, "Blogger-inspired" web application built with Laravel. This project fe
 ##### 📁 Project Structure
 
 app/
+
  └── Http/Controllers/UserController.php   # Handles Auth & Posts
 database/
+
  └── migrations/                           # Database table schemas
+ 
 resources/
+
  └── views/
+ 
       └── welcome.blade.php                # Main Login/Register/Feed UI
+      
 routes/
+
  └── web.php                               # Application URL routes
+
+###### 👤 Author
+
+* Balogun Jeremiah Heritage
+* Matric No: 24/10MSS064
