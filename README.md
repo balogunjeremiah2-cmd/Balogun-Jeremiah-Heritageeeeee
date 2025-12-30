@@ -78,3 +78,15 @@ A modern, "Blogger-inspired" web application built with Laravel. This project fe
 * Composer installed globally.
 
 * PHP 8.2+ (ensure pdo_mysql is enabled).
+
+##### 📁 Project Structure
+
+app/
+ └── Http/Controllers/UserController.php   # Handles Auth & Posts
+database/
+ └── migrations/                           # Database table schemas
+resources/
+ └── views/
+      └── welcome.blade.php                # Main Login/Register/Feed UI
+routes/
+ └── web.php                               # Application URL routes
