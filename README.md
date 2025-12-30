@@ -54,6 +54,10 @@ A modern, "Blogger-inspired" web application built with Laravel. This project fe
 
 ![ait text](https://github.com/balogunjeremiah2-cmd/Balogun-Jeremiah-Heritageeeeee/blob/main/Screenshot%202025-12-27%20125440.png?raw=true)
 
-*Once a new user get registered and the Database accept the application, user can now use their username and password to access the Blog website
+* Once a new user get registered and the Database accept the application, user can now use their username and password to access the Blog website
 
 ![ait text](https://github.com/balogunjeremiah2-cmd/Balogun-Jeremiah-Heritageeeeee/blob/main/Screenshot%202025-12-27%20125604.png?raw=true)
+
+* Once login and authenticated, you get into the blog landing page.
+
+![ait text](https://github.com/balogunjeremiah2-cmd/Balogun-Jeremiah-Heritageeeeee/blob/main/Screenshot%202025-12-27%20125633.png?raw=true)
