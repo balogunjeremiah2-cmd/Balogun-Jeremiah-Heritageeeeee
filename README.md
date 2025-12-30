@@ -70,3 +70,11 @@ A modern, "Blogger-inspired" web application built with Laravel. This project fe
 * Database: MySQL (via Laragon)
 
 * Frontend: Blade Templating Engine, CSS3
+
+#### ⚙️ Installation & Setup
+
+* Laragon (Recommended) or XAMPP.
+
+* Composer installed globally.
+
+* PHP 8.2+ (ensure pdo_mysql is enabled).
